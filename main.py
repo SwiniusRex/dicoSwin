@@ -6,7 +6,7 @@ import sys
 import os
 
 here = os.path.dirname(os.path.abspath(__file__))
-dictionnaire = here + "/dictionnaire.csv"
+dictionnaire = os.path.join(here, "dictionnaire.csv")
 
 
 def display_usage():
@@ -22,7 +22,7 @@ def display_usage():
           "===================================================================\n")
 
 def csv2list():
-    csv = open(dictionnaire)
+    csv = open(dictionnaire, encoding="utf8")
     elements = []
     for line in csv:
         elements.append(line[:-1].split(","))
