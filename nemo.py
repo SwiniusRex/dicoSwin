@@ -20,7 +20,6 @@ async def on_message(message):
     elif "Halune" in message:
         print("Halune !")
 
-
 codex = open(os.path.join(here,"codex.swin"))
 botcode = codex.readline()
 
