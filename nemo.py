@@ -1,7 +1,10 @@
 """
 Nemo est la version de dicoSwin utilisable sur discord.
 """
+import os
 import discord as d
+
+here = os.path.dirname(os.path.abspath(__file__))
 
 intents = d.Intents.default() #Voir doc
 
@@ -17,4 +20,8 @@ async def on_message(message):
     elif "Halune" in message:
         print("Halune !")
 
-client.run('1822f2ef472ab291790d5106cde9f9c71dabc7ff6c478a842e91aaef40f698fd')
+
+codex = open(os.path.join(here,"codex.swin"))
+botcode = codex.readline()
+
+client.run(botcode)
