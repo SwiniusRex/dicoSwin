@@ -21,6 +21,8 @@ async def on_message(message):
         print("Halune !")
 
 codex = open(os.path.join(here,"codex.swin"))
-botcode = codex.readline()
+botcode = codex.read(200)
+print(botcode)
+
 
 client.run(botcode)
