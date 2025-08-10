@@ -1,4 +1,3 @@
-
 verbe,abandonner,nev nunlhavei
 verbe,abattre,nev deskem
 subst.,abri,zumipratür
@@ -6,32 +5,32 @@ subst.,absence,nun
 adj.,absolu,kadioxa
 adv.,absolument,kadioxa
 subst.,accent,sünskrivei
-verbe,accepter,nev hë
 verbe,accompagner,vad cün
+verbe,accepter,nev hë
 verbe,accomplir,nev sünülti
 subst.,accord,rosalori
 verbe,accorder,nev rosali
 verbe,accrocher,lhav filin
 verbe,accuser,nem antanevei
-verbe,acheter,nev ëxdevïz
 verbe,achever,nev ülti
-verbe,achever,nev deskem
+verbe,acheter,nev ëxdevïz
 subst.,acte,nevori
+verbe,achever,nev deskem
 subst.,acte,aktori
-subst.,action,nevori
 verbe,admettre,nem ültïxa hë
-verbe,adresser,nem yah
+subst.,action,nevori
 subst.,affaire,nevei
+verbe,adresser,nem yah
 subst.,affaire,esxi
 verbe,affirmer,nem assüriexi
 prép.,afin de,pron
-subst.,âge,vrënori
 adj.,âgé,vrënori
+subst.,âge,vrënori
 subst.,agent,neveri
 verbe,agir,nev nni
 verbe,agiter,lhav ïnmisem
-interj.,ah,ar
 subst.,aide,ayad
+interj.,ah,ar
 verbe,aider,nev ayad
 subst.,aile,avia
 adv.,ailleurs,ëxluxeïxa
@@ -44,8 +43,8 @@ verbe,aller,vad nni
 verbe,allumer,nev lumïn
 adv.,alors,ønto
 subst.,âme,anima
-verbe,amener,lhav yavadei
 subst.,ami,wruzi
+verbe,amener,lhav yavadei
 subst.,amour,vajü
 verbe,amuser,nev bugwei
 subst.,an,vrën
@@ -56,8 +55,8 @@ subst.,angoisse,ïnhorrest
 subst.,animal,œtsras
 verbe,animer,nev anima
 subst.,année,vrën
-verbe,annoncer,nev abinemei
 verbe,apercevoir,nev torokrei
+verbe,annoncer,nev abinemei
 verbe,apparaître,go ëxokrei
 subst.,apparence,ëxokrei
 subst.,appartement,tornnialann
@@ -71,25 +70,25 @@ verbe,approcher,vad proxi
 verbe,appuyer,lhav filine
 adv.,après,arõxa
 prép.,après,arõ
-subst.,arbre,altïndras
 subst.,argent,devïz
+subst.,arbre,altïndras
 subst.,argent,argentœm
-subst.,arme,uzeqi
 subst.,armée,uzevaari
-verbe,armer,nev uzeqi
+subst.,arme,uzeqi
 verbe,arracher,lhav zonëx
+verbe,armer,nev uzeqi
 verbe,arrêter,nev renits
 subst.,arrière,dors
 subst.,arrivée,ültivadei
-verbe,arriver,vad ülti
 subst.,art,dïmiyoreg
+verbe,arriver,vad ülti
 subst.,article,arskriveri
 subst.,as,nni 
 subst.,aspect,ëxokrei
 verbe,asseoir,nev twerei
 adv.,assez,ïnesxa
-verbe,assister,nev ayad 
 verbe,assurer,nev assüriexi
+verbe,assister,nev ayad 
 verbe,attacher,nev ïnvaari
 verbe,attaquer,nev anta
 verbe,atteindre,nev sünülti
@@ -122,14 +121,14 @@ adv.,avec,cünxa
 prép.,avec,cün
 subst.,avenir,arõyuxei
 subst.,aventure,arëxluxeori
-subst.,avis,türayœ
 verbe,avoir,lai nni
-verbe,avouer,nem ülti
 verbe,baisser,lhav süb
+subst.,avis,türayœ
+verbe,avouer,nem ülti
 subst.,banc,twereitür 
 subst.,bande,planeviri
-subst.,barbe,barva
 adj.,bas,sübexa
+subst.,barbe,barva
 adv.,bas,sübexa
 subst.,bas,sübei
 subst.,bataille,arbelikori
@@ -143,8 +142,8 @@ adj.,beaux,mïdoxa
 subst.,besoin,üvei
 subst.,bête,bestiall
 adv.,bien,meqoxa
-subst.,bien,meqoxa
 adv.,bientôt,toryuxeïxa
+subst.,bien,meqoxa
 subst.,billet,devïfoil
 adj.,blanc,gwïnexa
 subst.,blanc,gwïnexi
@@ -154,16 +153,16 @@ adj.,blond,aurexa
 verbe,boire,nev erikomei
 subst.,bois,ïndrasœm
 adj.,bon,meqoxa
-subst.,bon,meqoxi
 subst.,bonheur,meqoestori
+subst.,bon,meqoxi
 subst.,bord,ültilinei
 subst.,bouche,bucka
 subst.,bout,torülti
-subst.,branche,brãki
 subst.,bras,brassa
+subst.,branche,brãki
 verbe,briller,nev ëxlumin
-verbe,briser,nev rañei
 subst.,bruit,sonip
+verbe,briser,nev rañei
 verbe,brûler,nev kirim
 verbe,brûler,go kirim
 adv.,brusquement,sünyivœlxa
@@ -172,8 +171,8 @@ subst.,but,yahei
 pron.,ça,ïste
 subst.,cabinet,ïstanetür
 verbe,cacher,lhav zumipra
-adj.,calme,kalmxa
 subst.,calme,kalmxi
+adj.,calme,kalmxa
 verbe,calmer,nev kalmxi
 subst.,camarade,yawruzi
 subst.,campagne,wesperanian
@@ -193,27 +192,27 @@ pron.,ceci,ïste
 verbe,céder,go rañei
 pron.,cela,ïste
 pron.,celui,ïste (ïn nni)
-numér.,cent,nnicenti
 subst.,centre,xiwœl
 adv.,cependant,nesa
+numér.,cent,nnicenti
 subst.,cercle,cïrkle
 adj.,certain,assüriexa
 dét.,certain,nni
 adv.,certainement,assüriexa
 adv.,certes,hë
-adv.,certes,ïn vrëxi
 subst.,cerveau,nervexa skentir
+adv.,certes,ïn vrëxi
 subst.,cesse,renits
-verbe,cesser,nev renits
 pron.,chacun,kadio
+verbe,cesser,nev renits
 subst.,chaîne,nexiviri
 subst.,chair,karnis
 subst.,chaise,twereitür
-subst.,chaleur,mïzfrieste
 subst.,chambre,somnïntür
+subst.,chaleur,mïzfrieste
 subst.,champ,ïndrasan
-subst.,chance,meqaleateri
 subst.,changement,noveori
+subst.,chance,meqaleateri
 verbe,changer,nev novei
 subst.,chant,rosanemori
 verbe,chanter,nem rosali
@@ -230,448 +229,448 @@ subst.,chemise,kamizer
 adj.,cher,ardevïxa
 verbe,chercher,vad mïzzumi
 subst.,cheval,kavallo
-subst.,chiffre,ïqi
 subst.,cheveu,capilla
-subst.,chien,kanio
-verbe,choisir,nev ønalea
 prép.,chez,ïn
-subst.,choix,ønalea
+subst.,chien,kanio
+subst.,chiffre,ïqi
 subst.,chute,mïztwerei
+verbe,choisir,nev ønalea
 subst.,chose,nni
 subst.,ciel,ürani
-numér.,cinq,køt
 adv.,ci, - 
-numér.,cinquante,køteka
+subst.,choix,ønalea
+numér.,cinq,køt
 subst.,circonstance,proni
-subst.,circonstance,esxi
 adj.,clair,luminxa
-subst.,classe,yarzevaari
+numér.,cinquante,køteka
 subst.,clef,axœmeri
-adj.,claire,luminxa
+subst.,circonstance,esxi
 subst.,classe,vaari
+subst.,classe,yarzevaari
+adj.,claire,luminxa
 subst.,coeur,skentir
 subst.,coin,gonei
-subst.,colère,wruni
 subst.,combat,belik
-subst.,colline,torsina
+subst.,colère,wruni
 subst.,colon,ïnvaderi
+subst.,colline,torsina
 verbe,commander,nev kinnemei
-adv.,combien,ïqi kin
 adv.,comme,misemxa
-conj.,comme,yah
-subst.,commencement,ïnits
+adv.,combien,ïqi kin
 verbe,commencer,nev ïnits
+conj.,comme,yah
 adv.,comment,cünxa
+subst.,commencement,ïnits
 conj.,comment,cün kin
 adj.,commun,kadioxa
 adj.,complet,ãplaxa
 adv.,complètement,ãplaxa
-subst.,compagnon,cünwruzi
 verbe,composer,nev vaari
+subst.,compagnon,cünwruzi
 subst.,compagnie,wruzivaari
 verbe,comprendre,nev skïpir
 subst.,compte,ïqinemori
-verbe,compter,nem ïqi
 verbe,condamner,nem ïnanta
-verbe,conclure,nem ülti
 subst.,condition,esxi
+verbe,conclure,nem ülti
+verbe,compter,nem ïqi
 subst.,condition,sübproni
 verbe,conduire,nev vadei
 subst.,confiance,yøbei
-verbe,confondre,nev mïzmisem
 verbe,confier,nev yøbegammei
+verbe,confondre,nev mïzmisem
 subst.,connaissance,skïpir
 subst.,conscience,arsünskïpir
-verbe,consentir,nev hë
 subst.,conseil,torgastinemei
+verbe,consentir,nev hë
 verbe,connaître,lai skïpir
 verbe,construire,nev turayœ
-verbe,consulter,vad ïnnemei
 verbe,considérer,lhav ïnesxi
-adj.,content,wramïxa
+verbe,consulter,vad ïnnemei
 verbe,contenir,lhav ïn
 verbe,contenter,nev wrami
+adj.,content,wramïxa
 verbe,continuer,nev yanits
-subst.,contraire,antaxi
-prép.,contre,anta
 subst.,conversation,arnemori
+prép.,contre,anta
 subst.,corde,arviri
+subst.,contraire,antaxi
 verbe,convenir,nev hë
 subst.,côte,lineian
 subst.,côté,linei
 subst.,corps,küerp
 subst.,cou,kolta
-subst.,couche,sünplanei
 verbe,coucher,lhav sünplanei
 verbe,couler,lhav süberid
+subst.,couche,sünplanei
 subst.,coup,qekori
 verbe,couper,nev sekti
-subst.,couleur,kolor
 subst.,courage,ønhorrest
-subst.,courant,fülgar
 subst.,cour,ëxtür
+subst.,courant,fülgar
+subst.,couleur,kolor
 subst.,courant,ïnyivœl
 verbe,courir,vad sprïnt
-subst.,cours,yarzev
 subst.,course,sprïntori
+subst.,cours,yarzev
 adj.,court,tortoxa
 adj.,court,torluxeïxa
 adj.,court,toryuxeïxa
-verbe,couvrir,lhav sübzerwip
 verbe,craindre,go horrest
 subst.,crainte,horrest
-verbe,coûter,go devïz
+verbe,couvrir,lhav sübzerwip
 verbe,créer,nev nni
+verbe,coûter,go devïz
 verbe,creuser,nev kratei
-subst.,cri,arsonip
 subst.,crise,armïzestori
+subst.,cri,arsonip
 verbe,crier,nem arsonip
 verbe,croire,go kredei
 subst.,crise,armïzesxi
 verbe,croiser,nev kroox
 adj.,cruel,øpïtwaïxa
+subst.,croix,kroox
 subst.,cuisine,komieritür
 adj.,curieux,üviskïprïxa
-subst.,croix,kroox
 subst.,curiosité,üviskïpir
-adv.,d'abord,ïn ïnits
 subst.,dame,dannae
+adv.,d'abord,ïn ïnits
 adj.,dangereux,juvraxa
 prép.,dans,ïn
 subst.,danger,juvar
-verbe,danser,nev rosamuvei
 dét.,d'autres,otrasën
-pron.,d'autres,otrasën
+verbe,danser,nev rosamuvei
 dét.,de, - 
+pron.,d'autres,otrasën
 adv.,davantage,maxa
-prép.,de,yah
 adv.,debout,retwereïxa
-subst.,début,ïnits
+prép.,de,yah
 verbe,décider,nev gastinemei
+subst.,début,ïnits
 verbe,déchirer,lhav mïzvaari
-verbe,déclarer,nem sün
 verbe,découvrir,nev øzumipra
+verbe,déclarer,nem sün
 verbe,décrire,nem ïstanei
 verbe,défendre,nev ønanta
-verbe,dégager,lhav ëx
-subst.,défaut,mïzïnesteri
 adv.,dehors,ëxexa
+verbe,dégager,lhav ëx
 subst.,dehors,ëxluxei
 adv.,déjà,abïxa
+subst.,défaut,mïzïnesteri
 adv.,demain,arõdïa
-adv.,delà,arõxa
 subst.,demain,arõdïa
+adv.,delà,arõxa
 verbe,demander,nev kinnemei
 subst.,demande,kinnemei
 verbe,demeurer,go maxi
-adj.,demi,bissekti
-subst.,dent,donta
 subst.,départ,ïnits
+subst.,dent,donta
+adj.,demi,bissekti
 verbe,déposer,lhav sünei
 adv.,depuis,pron
-verbe,dépasser,vad sünwãga
 adj.,dernier,ültida
 subst.,dernier,ültida
 prép.,depuis,pron
+verbe,dépasser,vad sünwãga
 prép.,derrière,dors
-prép.,dès,ïnyuxei
 verbe,descendre,vad süb
-subst.,désert,võdïnan
+prép.,dès,ïnyuxei
 verbe,désigner,nev ïstanei
+subst.,désert,võdïnan
 subst.,désir,ïnvajü
-subst.,désespoir,mïzjerev
 verbe,désirer,go ïnvajü
+subst.,désespoir,mïzjerev
 adv.,désormais,ïsteyuxeïxa
 verbe,dessiner,nev lineidïmi
 verbe,détacher,lhav ëxvaari
-subst.,détail,torokreori
-adv.,dessus,sünxa
 verbe,détruire,nev mïztürayœ 
+adv.,dessus,sünxa
 numér.,deux,bis
+subst.,détail,torokreori
 adv.,devant,wãgaxa
 prép.,devant,wãga
 verbe,devenir,go novei 
-subst.,devoir,gastiñ
 verbe,deviner,nem abiskïpir
+subst.,devoir,gastiñ
+adj.,difficile,zoxa
 subst.,dieu,deiwip
 adj.,différent,ømisemxa
-adj.,difficile,zoxa
 verbe,devoir,go gastiñ
-adj.,digne,ëxyøbexa
 subst.,dimanche,soladïa
-verbe,dire,nem nni
+adj.,digne,ëxyøbexa
 verbe,diriger,lhav ïnvadei
 subst.,discours,nemori
 subst.,direction,yavadei
-subst.,discussion,cünnemori
+verbe,dire,nem nni
 verbe,discuter,nem cün
 verbe,disparaître,nev reïstane
+subst.,discussion,cünnemori
 subst.,distance,luxei
-verbe,distinguer,nev torokrei
-adj.,divers,masheñœmxa
 verbe,disposer,lai sün
+verbe,distinguer,nev torokrei
 numér.,dix,dex
 numér.,dix,nnieka
+adj.,divers,masheñœmxa
 subst.,docteur,sünsanïteri
-verbe,dominer,nev sünrõ
 conj.,donc,ønto
+verbe,dominer,nev sünrõ
 subst.,doigt,digjït
-verbe,donner,nev gammei
 pron.,dont,ïn
+verbe,donner,nev gammei
 verbe,dormir,go somnis
-subst.,dos,dors
 adv.,doucement,dolxa
+subst.,dos,dors
 subst.,douceur,dolxi
 adj.,double,biexa
 subst.,douleur,dolor
-verbe,douter,nev mïzyøbei
 subst.,doute,mïzyøbei
-adj.,doux,dolxa
+verbe,douter,nev mïzyøbei
 subst.,drame,arhorrest
 adj.,droit,rektexa
+adj.,doux,dolxa
 numér.,douze,Nnieka-nni
-verbe,dresser,nev rektei
-subst.,droit,øgastiñ
 adj.,droite,rektexa
+subst.,droit,øgastiñ
+verbe,dresser,nev rektei
 subst.,droite,vodah
 dét.,du,yah
 adj.,drôle,bugwïxa
 adj.,dur,nexa
 verbe,durer,go yuxei
 subst.,eaux,erïn
-prép.,durant,ïn
 subst.,eau,erid
+prép.,durant,ïn
 verbe,écarter,lhav ëvaari
-verbe,échapper,vad ëxbelik
 verbe,éclairer,lhav lumin
-verbe,éclater,go mïzvaari
-subst.,éclat,torlumin
+verbe,échapper,vad ëxbelik
 subst.,école,yazevetür
 verbe,écouter,nev ïnoyei
+verbe,éclater,go mïzvaari
+subst.,éclat,torlumin
 verbe,écraser,nev planei
 verbe,écrire,nev skrivei
+adj.,égal,esxa
+adj.,égal,ekwalxa
 verbe,effacer,nev mïzskrivei
 subst.,effet,nevexi
-adj.,égal,ekwalxa
-adj.,égal,esxa
 subst.,effort,ïnnevei
 adv.,également,esxa
 adv.,également,ekwalxa
-interj.,eh,eh
-subst.,élément,sekti
 verbe,élever,lhav sün
-verbe,éloigner,lhav arluxei
+subst.,élément,sekti
 verbe,embrasser,nev embrass
+interj.,eh,eh
 pron.,elle,ye
 verbe,élever,nev aryarzev
+verbe,éloigner,lhav arluxei
 verbe,emmener,lhav vadei
 subst.,émotion,esteri
 subst.,empire,imperian
-verbe,emporter,lhav vadei
 verbe,employer,lhav ïnlabori
 adv.,en,ïn
-prép.,en,ïn
+verbe,emporter,lhav vadei
 pron.,en,ïn
+prép.,en,ïn
 verbe,endormir,nev somnis
 subst.,endroit,luxei
 adv.,encore,maxa
 subst.,énergie,ïnfülgar
-subst.,enfance,joviyuxei
 subst.,enfant,jovïnxi
+subst.,enfance,joviyuxei
 adv.,enfin,ültïxa
 verbe,enfermer,lhav ïnqokwei
 verbe,enfoncer,lhav ïnsübei
 verbe,empêcher,nev renits
 verbe,engager,lhav ïnlabori
 verbe,enlever,lhav mïnxi
-subst.,ennemi,wrenumi
 adj.,énorme,ararñoxa
-subst.,ensemble,vaari
+subst.,ennemi,wrenumi
 adv.,ensemble,ïnvaarïxa
-adv.,ensuite,arõxa
-verbe,entendre,go oyei
 adj.,entier,ãplaxa
 verbe,entraîner,nev ïnyarzev
 verbe,entourer,nev towr
 prép.,entre,ïnter
-subst.,entrée,ïnvadei
 verbe,entrer,vad ïn
 verbe,entretenir,nev meqarõ
+subst.,entrée,ïnvadei
 adv.,environ,proxa
 verbe,envoyer,nev ëxgammei
 adj.,épais,arvirïxa
 subst.,envie,ïnwrami
 verbe,envelopper,lhav ïnfoil
 subst.,époque,aryuxei
+subst.,ensemble,vaari
+verbe,entendre,go oyei
 subst.,épaule,sünbrassa
 verbe,éprouver,lai esteri
-subst.,escalier,sünvadetür
-subst.,erreur,mïznevei
 subst.,espace,spaciall
-subst.,espace,arluxei
+adv.,ensuite,arõxa
 subst.,espèce,bïosxa heñœm
+subst.,espace,arluxei
+subst.,escalier,sünvadetür
 verbe,espérer,go jerev
 subst.,espoir,jerev
 subst.,esprit,anima
-verbe,essayer,nev ïnjerev
 verbe,essuyer,nev 
+subst.,erreur,mïznevei
 subst.,est,ïlstre
+verbe,essayer,nev ïnjerev
 subst.,étage,süntür
-conj.,et,ne
-verbe,établir,nev esxi
 subst.,état,esxi
+verbe,établir,nev esxi
+conj.,et,ne
 verbe,étaler,nev sünplanei
-subst.,été,kalorius
 adv.,etc,ne maxa otrasën
+subst.,été,kalorius
 verbe,éteindre,nev relumin
 subst.,étendue,arluxei
 verbe,étendre,nev arluxei
 subst.,étoile,makriis
+verbe,étonner,nev høtc
 adj.,éternel,kadiyuxeïxa
 subst.,étoile,stell
-verbe,étonner,nev høtc
 verbe,étouffer,nev mïzventop
-adj.,étrange,kinnemexa
 adj.,étranger,ëxvïverïxa
-subst.,être,goi
+adj.,étrange,kinnemexa
 subst.,étranger,ëxvïveri
+subst.,être,goi
 adj.,étroit,tortoxa
-verbe,être,go nni
 subst.,étude,ïnyarzev
 subst.,événement,ïnesxi
+verbe,être,go nni
 verbe,étudier,nev ïnyarzev
 verbe,éviter,vad ëxjuvar
-verbe,examiner,nev torokrei
-verbe,exécuter,nev deskem
 verbe,exiger,nem kingastiñ
+verbe,exécuter,nev deskem
+verbe,examiner,nev torokrei
 subst.,exemple,ïstaneri
 verbe,exécuter,nev ïnits
 subst.,existence,esxi
-verbe,exister,go esxi
 subst.,expérience,ïnesxi
+verbe,exister,go esxi
 verbe,expliquer,nem ëxskïpir
-verbe,exposer,nev arïstanei
 subst.,expérience,ïnesteri
+verbe,exposer,nev arïstanei
 verbe,exprimer,nem esteri
 adj.,extraordinaire,arëxnaturalxa
 subst.,expression,kadionemori
-adj.,facile,øzoxa
 subst.,face,wãgacappel
+adj.,facile,øzoxa
 subst.,façon,heñœm
 subst.,faim,üvikomei
 adj.,faible,torfilinxa
+subst.,fait,nevexi
 adj.,fait,nevexa
 verbe,faire,nev nni
-subst.,fait,nevexi
 subst.,famille,hasterneri
 verbe,fatiguer,nev üvisomnis
-verbe,falloir,go gastiñ
 subst.,fatigue,üvisomnis
-subst.,faute,mïznevei
 subst.,fauteuil,artwereitür
+verbe,falloir,go gastiñ
+subst.,faute,mïznevei
 subst.,femme,femine
 adj.,faux,falxa
 subst.,fenêtre,luminaxœm
-subst.,faveur,gammori
 subst.,fer,ferrœm
 verbe,fermer,nev qokwor
+subst.,faveur,gammori
 subst.,ferme,farmatür
 subst.,feu,kirïn
 subst.,fête,fest
 subst.,feuille,foil
 adj.,fidèle,fidelxa
-adj.,fier,ïnyøbexa
 verbe,figurer,lai heñœm
+adj.,fier,ïnyøbexa
 subst.,figure,heñœm
 subst.,fille,torfemine
 subst.,fille,filterni
 subst.,fil,viri
 adj.,fin,tortoxa
 subst.,fils,filterni
-adj.,fine,tortoxa
 verbe,finir,nev ülti
+adj.,fine,tortoxa
 subst.,fin,ülti
 adj.,fixe,ømuverïxa
 subst.,flamme,kirim
 verbe,fixer,nev ømuvei
 subst.,fleur,flor
+subst.,fois, - 
 subst.,foi,arkredori
 subst.,flot,süneritür
-subst.,fois, - 
 subst.,folie,falsesxi
 subst.,fonction,neveri
 subst.,fonction,fõxi
-verbe,fonder,nev turayœ
 subst.,fond,arsübei
-subst.,force,filin
+verbe,fonder,nev turayœ
 subst.,forêt,silvas
+subst.,force,filin
 verbe,forcer,nev filin
 subst.,forme,heñœm
 verbe,former,nev heñœm
 adj.,fort,arfilinxa
 adv.,fort,arñoxa
-adj.,fou,falxa
-adv.,fort,arfilinxa
 subst.,fortune,ardevïzexi
+adj.,fou,falxa
 adj.,frais,torfriesxa
+adv.,fort,arfilinxa
 subst.,foule,ardemoxei
 subst.,franc,yøbenemerïxa
 adj.,français,frãsïxa
+verbe,frapper,nev qekoi
 subst.,français,frãsïxi
 verbe,franchir,vad yah
-verbe,frapper,nev qekoi
 subst.,françois,Francis
 subst.,frère,fraterni
 subst.,froid,frieste
 subst.,fruit,frükti
-subst.,front,süncappel
-adj.,froid,friesxa
 verbe,fuir,vad ëxjuvar
+subst.,front,süncappel
 subst.,fumée,fümii
-verbe,fumer,nev fümii
+adj.,froid,friesxa
 verbe,gagner,nev primei
-subst.,fusil,füsilluzi
 subst.,garçon,tormackile
 verbe,garder,nev sünlaiori
 subst.,gauche,jedah
+verbe,fumer,nev fümii
+subst.,fusil,füsilluzi
 adj.,gauche,jedahïxa
 adj.,général,vaarïxa
 subst.,garde,sünlaiori
 subst.,général,cëfeuzi
-subst.,genre,heñœm
-subst.,genou,jammalai skentir
 subst.,geste,muvori
+subst.,genre,heñœm
 subst.,gens,demoxeïn
+subst.,genou,jammalai skentir
 subst.,glace,givras
-subst.,gloire,arprimori
 subst.,goût,güstei
-subst.,goutte,torerid
+subst.,gloire,arprimori
 verbe,glisser,vad givras
 subst.,gouvernement,arpoliteri
 prép.,grâce,pron
 prép.,grâce,ïn hanniste pron
+subst.,goutte,torerid
 subst.,grain,torïndras
 subst.,grâce,hannistori
 subst.,grand,arñoxi
-adj.,grand,arñoxa
 verbe,grandir,nev arñop
+adj.,grand,arñoxa
 adj.,grave,armuxeïxa
 adj.,gris,ãtsraxa
-adj.,gros,arñoxa
 adj.,gris,grïzoxa
 subst.,guerre,arbelik
-adv.,guère,tortoxa
-verbe,habiller,nev zerwip
+adj.,gros,arñoxa
 subst.,habitant,ïnalanneri
+verbe,habiller,nev zerwip
+adv.,guère,tortoxa
 subst.,groupe,vaari
 verbe,habiter,nev ïnalann
 subst.,habitude,maxinevei
 subst.,haine,armïzvajü
 subst.,hasard,alea
 verbe,haïr,go armïzvajü
-adv.,haut,altoxa
 subst.,haut,altoxi
 adj.,haut,altoxa
+adv.,haut,altoxa
 adj.,haute,altoxa
 subst.,hauteur,altop
 subst.,herbe,hervidras
@@ -680,121 +679,121 @@ adj.,heureux,sünwramïxa
 adv.,hier,abidïa
 subst.,heure,hori
 subst.,histoire,historias
-subst.,hiver,friestevar
 subst.,histoire,ëxbïbliori
+subst.,hiver,friestevar
 subst.,homme,mackile
 subst.,honneur,ëxyøbei
 subst.,honte,mïzïnyøbei
 subst.,horizon,horizontall
 prép.,hors,ëx
 numér.,huit,okt
-adj.,humain,humani
 subst.,hôtel,hostalann
+adj.,humain,humani
 adv.,ici,ïsteluxeïxa
-subst.,idée,noviskïpir
 adj.,humide,ïneridexa
-verbe,ignorer,nev nun 
 pron.,il,ye
+subst.,idée,noviskïpir
 subst.,image,okreori
 subst.,île,insulan
 adj.,immense,ararñoxa
-verbe,imaginer,nev arïnskïpir
+verbe,ignorer,nev nun 
 adj.,important,armuxeïxa
-subst.,importance,muxei
 verbe,importer,lhav ïnanrijœm
+verbe,imaginer,nev arïnskïpir
+subst.,importance,muxei
 verbe,imposer,nev gastiñ
-adj.,immobile,ømuverïxa
 adj.,impossible,nunaleaxa
+adj.,immobile,ømuverïxa
 adj.,inconnu,øskïpiorïxa
 subst.,impression,ïnskïprori
 verbe,indiquer,nem vadei
-subst.,inquiétude,mïzyøbeïxa
-verbe,inquiéter,nev mïzyøbei
 verbe,inspirer,nev cünvadei
 subst.,instant,toryuxei
+verbe,inquiéter,nev mïzyøbei
 verbe,installer,lhav re
+subst.,inquiétude,mïzyøbeïxa
 subst.,intelligence,skïpir
-subst.,instinct,sübskïpir
 subst.,intention,ïnwrami
+subst.,instinct,sübskïpir
 verbe,intéresser,ïnteresxa
 subst.,intérêt,ïnteres
-adj.,intérieur,ïnxa
-subst.,intérieur,ïnxi
 verbe,interrompre,nev renits
 verbe,interroger,nev kinnemei
-verbe,inventer,nev novindïr
+subst.,intérieur,ïnxi
+adj.,intérieur,ïnxa
 verbe,inviter,nev vadgammei
+verbe,inventer,nev novindïr
 adj.,inutile,ønutilxa
 subst.,jambe,jamma
 adv.,jamais,nunyuxeïxa
 subst.,jardin,ïndrasalann
-adj.,jaune,amarïlxa
 adj.,jaune,yaonïxa
-verbe,jeter,nev relhavei
+adj.,jaune,amarïlxa
 pron.,je,hi
-adj.,jeune,jovïnxa
 subst.,jeu,ludei
-subst.,jeune,jovïnxi
 subst.,jeunesse,jovïnori
-subst.,joie,wrami
+verbe,jeter,nev relhavei
+subst.,jeune,jovïnxi
 adj.,joli,tormïdoxa
+adj.,jeune,jovïnxa
 subst.,joue,joda
-verbe,joindre,nev ïnvaari
+subst.,joie,wrami
 verbe,jouer,nev ludei
+verbe,joindre,nev ïnvaari
 subst.,jour,dïa
 subst.,journal,dïafoil
 subst.,juge,wresteri
 verbe,juger,nev wrestis
 prép.,jusque,yah
-subst.,journée,dïaris
-subst.,justice,wrestis
 adv.,là,ïstexa
+subst.,justice,wrestis
 adj.,juste,wrestïxa 
 adj.,large,arñoxa
+subst.,journée,dïaris
 subst.,larme,okreerid
 dét.,le,ïste
-pron.,le,ïste
 adj.,léger,torbaroxa
+pron.,le,ïste
 adj.,léger,tormuxeixa
-subst.,lendemain,arõdïa
 pron.,lequel,kin ïn nni
-adv.,lentement,toryivœlxa
+subst.,lendemain,arõdïa
 dét.,leur,yënlai
 subst.,lettre,skrivei
-pron.,leur,yënlai
+adv.,lentement,toryivœlxa
 subst.,lèvre,labia
 subst.,liberté,arregastiñ
 adj.,libre,regastiñexa
+pron.,leur,yënlai
 verbe,lever,lhav sün
+subst.,lieu,luxei
 subst.,lien,ïnvaari
 verbe,lier,nev ïnvaari
-subst.,lieu,luxei
 subst.,ligne,linei
 verbe,lire,lhav bïblis
 subst.,lit,somniplanetür
-subst.,livre,bïblis
 verbe,livrer,nev vadei
+subst.,livre,bïblis
 verbe,lisser,nev planei
 subst.,loi,lïx
-adv.,loin,arluxeïxa
-adj.,long,arñoxa
 adj.,long,aryuxeïxa
+adv.,loin,arluxeïxa
 adj.,long,arluxeïxa
+adj.,long,arñoxa
 subst.,long,linei
-adv.,longtemps,aryuxeïxa
-conj.,lorsque,ïn
 adv.,lors,ïn
+adv.,longtemps,aryuxeïxa
 subst.,loup,lupo
-adj.,lourd,armuxeïxa
+conj.,lorsque,ïn
 adj.,lourd,arbaroxa
+adj.,lourd,armuxeïxa
 subst.,lueur,torlumin
-subst.,lumière,lumin
 pron.,lui,ye
+subst.,lumière,lumin
 pron.,l'un,nni
 subst.,Lune,Luna
 subst.,lune,satella
-verbe,lutter,nev ïnbelik
 pron.,l'une,nni
+verbe,lutter,nev ïnbelik
 subst.,lutte,ïnbelik
 subst.,machine,andïr
 subst.,madame,Yadannae
@@ -803,208 +802,207 @@ adv.,maintenant,ïsteyuxeixa
 verbe,maintenir,lhav manei
 subst.,main,manei
 conj.,mais,misa
-subst.,maison,nnialann
 subst.,maison,vïvitür
+subst.,maison,nnialann
 adv.,mal,mïzoxa
 subst.,maître,mëstir
 subst.,mal,mïzoxi
-adj.,malade,mïzestexa
 subst.,maladie,mïzesteri
+adj.,malade,mïzestexa
 subst.,malheur,mïzwrami
 prép.,malgré,ïn misa
 subst.,manier,lhav manei
 verbe,manger,nev komei
-verbe,manquer,go treme
 subst.,marche,padevadei
 subst.,marché,merketür
+verbe,manquer,go treme
 verbe,marcher,vad padei
 subst.,mari,marii
 subst.,mariage,mariitür
 subst.,marchand,merkeri
 verbe,marier,nev marii
-subst.,masse,baro
 subst.,matin,abidïaris
 verbe,marquer,nev skrivei
-subst.,matière,materiœm
+subst.,masse,baro
 adj.,mauvais,mïzoxa
+subst.,matière,materiœm
 pron.,me,hi
 subst.,médecin,sünsanïteri
 adj.,meilleur,maxa meqoxa
 subst.,membre,ïnvaarïxi
 verbe,mêler,nev ïnvaari
 adj.,même,misemxa
-pron.,même,misem
 adv.,même,misemxa
 verbe,menacer,nem juvar
+pron.,même,misem
 subst.,mémoire,abiskïpir
-verbe,mener,lhav vadei
 verbe,mentir,nem mïzvrëxi
-verbe,mériter,go proni
+verbe,mener,lhav vadei
 subst.,mer,eridan
+verbe,mériter,go proni
 subst.,mesure,ïqiori
 subst.,mensonge,mïzvrëxi
 subst.,métier,ïnlabori
 verbe,mettre,lhav re
-subst.,midi,dïarnislai xiwœl
 adv.,mieux,maxa meqoxa
-pron.,mien,hilaïxa
 subst.,milieu,xiwœl
+subst.,midi,dïarnislai xiwœl
 adj.,militaire,uzeqerïxa
+pron.,mien,hilaïxa
 numér.,mille,nnimili
 subst.,million,nnimilone
 adj.,mince,tortoxa
-subst.,ministre,mïnisteri
 subst.,mine,sübderiatür
+subst.,ministre,mïnisteri
 subst.,minute,minuti
 subst.,mode,modei
-pron.,moi,hi
-subst.,miser,lhav devïz
 adj.,moindre,mïnxa
+subst.,miser,lhav devïz
 adv.,moins,mïnxa
+pron.,moi,hi
 subst.,mois,mõtsi
-subst.,moitié,bissekti
 subst.,monde,wãde
-dét.,mon,hilai
+subst.,moitié,bissekti
 subst.,moment,toryuxei
 subst.,monsieur,Yasindir
+dét.,mon,hilai
 subst.,montagne,sina
 verbe,monter,vad sün
 verbe,montrer,nav ïstanei
 subst.,morceau,torsekti
-adj.,mort,deskemxa
-subst.,mort,deskem
 verbe,mourir,go deskem
 subst.,mouvement,muvei
+subst.,mort,deskem
+adj.,mort,deskemxa
 adj.,moyen,mïdioxa
-subst.,mot,tornemei
 subst.,moyen,proni
-adj.,muet,nunnemerïxa
 subst.,mur,mürall
+subst.,mot,tornemei
+adj.,muet,nunnemerïxa
 subst.,musique,rosali
-subst.,naissance,nacït
 subst.,nation,polïtan
-verbe,naître,go nacït
 adj.,naturel,wesperanïxa
+verbe,naître,go nacït
+subst.,naissance,nacït
 adv.,naturellement,naturalxa
 subst.,nature,wesperani
-adv.,ne,nun
 adj.,nécessaire,üvexa
-adj.,nerveux,nervexa
+adv.,ne,nun
 adj.,neuf,novïxa
-numér.,neuf,nen
+adj.,nerveux,nervexa
 subst.,nez,nasall
+numér.,neuf,nen
 conj.,ni,ne
-subst.,noir,oskrïxi
 adj.,noire,oskrïxa
+subst.,noir,oskrïxi
 subst.,nom,nominei
-adj.,noir,oskrïxa
 subst.,nombre,ïqi
-adj.,nombreux,arïqïxa
-verbe,nommer,nev nominei
+adj.,noir,oskrïxa
 adv.,non,nun
+verbe,nommer,nev nominei
+adj.,nombreux,arïqïxa
 subst.,nord,norde
-subst.,note,torskrïveri
-dét.,notre,hïnlai
 verbe,nourrir,lhav komei
 pron.,nous,hïn
-adj.,nouveau,novïxa
+dét.,notre,hïnlai
+subst.,note,torskrïveri
 subst.,nouveau,novei
-adj.,nu,nüdexa
 subst.,nuage,alterid
+adj.,nouveau,novïxa
 subst.,nuit,noktis
-dét.,nul,nunni
 verbe,obéir,lai gastiñ
+adj.,nu,nüdexa
 subst.,objet,laiori
 verbe,obliger,nev gastiñ
 verbe,observer,nev ïnokrei
 verbe,obtenir,lai 
-subst.,occasion,pronyuxei
 verbe,occuper,lhav ïnnevei
 subst.,odeur,odor
+dét.,nul,nunni
 subst.,oeil,okrei
+subst.,occasion,pronyuxei
 subst.,oeuvre,dïmiyorgori
 subst.,officier,ïnlaberi
-verbe,offrir,nev gammei
-interj.,oh,or
 subst.,oiseau,avio
+interj.,oh,or
+verbe,offrir,nev gammei
 subst.,ombre,oskri
-pron.,on,hïn
-pron.,on,ïste
 subst.,oncle,hatsernilai fraterni
-conj.,or,nesa
+pron.,on,ïste
+pron.,on,hïn
 subst.,or,aurœm
+conj.,or,nesa
 subst.,ordre,ïngastiñ
-subst.,oreille,oyei
 verbe,oser,nev sün
 conj.,ou,sow
 pron.,où,luxei kin
 verbe,oublier,nev mïzskïpir
-adv.,oui,hë
+subst.,oreille,oyei
 adj.,ouvert,axœmxa
+adv.,oui,hë
 subst.,ouvrage,dïmiyorgori
 verbe,ouvrir,nev axœm
-subst.,page,foil
 subst.,pain,pani
-subst.,paix,ønantaxi
 subst.,palais,plazalann
-subst.,papa,hatra
+subst.,paix,ønantaxi
+subst.,page,foil
 subst.,papier,skrïvriœm
-subst.,paquet,foikcëfir
 prép.,par,pron
+subst.,paquet,foikcëfir
+subst.,papa,hatra
 verbe,paraître,go ëxokrei
 conj.,parce que,pron
 verbe,parcourir,vad yah
 adj.,pareil,misemxa
 subst.,parent,hatserni
-adv.,parfaitement,perfexa
 adv.,parfois,aleaxa
-verbe,parler,nev arnemei
+adv.,parfaitement,perfexa
 prép.,parmi,ïn
+verbe,parler,nev arnemei
 subst.,parole,arnemei
 subst.,part,sekti
-verbe,partager,nev sekti
 subst.,parti,politïxa sekti
+verbe,partager,nev sekti
 adj.,particulier,nniexa
-subst.,partie,sekti
 subst.,partie,ludori
+subst.,partie,sekti
 verbe,partir,vad ëxluxei
 adv.,partout,kadiluxeïxa
 verbe,parvenir,go ïnvadei
 adv.,pas, - 
 subst.,pas,padei
-subst.,passage,vadei
 adj.,passé,vadexa
+subst.,passage,vadei
 subst.,passé,abïxi
-verbe,passer,vad nni
 subst.,passion,sünvajü
+verbe,passer,vad nni
 subst.,patron,cëfe
-subst.,paupière,qokwea
 adj.,pauvre,tordevïzexa
-subst.,pauvre,tordevïzexi
+subst.,paupière,qokwea
 verbe,payer,lhav devïz
+subst.,pauvre,tordevïzexi
 subst.,pays,anrijœm
-subst.,paysage,wesperokreori
 subst.,paysan,wespereri
 subst.,peau,pëlta
-subst.,peine,mïzwrami
+subst.,paysage,wesperokreori
 verbe,pencher,lhav gonei
-prép.,pendant,ïn
-verbe,pendre,go sünlhavexi
-verbe,pénétrer,vad ïntortop
+subst.,peine,mïzwrami
 subst.,pensée,ïnskïpir
+verbe,pénétrer,vad ïntortop
+verbe,pendre,go sünlhavexi
+prép.,pendant,ïn
 verbe,penser,nev ïnskïpir
 verbe,perdre,nev tremei
 adj.,perdu,tremexa
 subst.,père,hasterni
-verbe,permettre,nev 
 subst.,personnage,torpersani
+verbe,permettre,nev 
 subst.,perte,tremei
 pron.,personne,nunpersani
-subst.,personne,persani
-verbe,peser,go baro
-adv.,peu,tortoxa
-verbe,peser,lhav baro
 subst.,petit,tortoxi
+verbe,peser,go baro
+verbe,peser,lhav baro
+adv.,peu,tortoxa
 adj.,petit,tortoxa
 subst.,peur,horrest
 subst.,phrase,nemori
@@ -1012,213 +1010,214 @@ subst.,peuple,demoxei
 subst.,pièce,ïntür
 subst.,pied,podia
 subst.,pierre,derias
-subst.,pitié,pïtwai
 subst.,place,plazz
+subst.,pitié,pïtwai
 verbe,placer,lhav ïnplazz
-verbe,plaindre,nev pïtwai
 subst.,place,luxei
-subst.,plaine,planean
-subst.,plaisir,wrami
-verbe,plaire,nev wrami
+verbe,plaindre,nev pïtwai
 subst.,plan,türayœ
+subst.,plaine,planean
+verbe,plaire,nev wrami
+subst.,plaisir,wrami
+subst.,personne,persani
 subst.,planche,planetür
 subst.,plante,ïndras
-adj.,plein,arïqïxa
 adj.,plein,ãplaxa
 prép.,plein,arñoxa
-verbe,plonger,vad ïnerid
+adj.,plein,arïqïxa
 verbe,pleurer,nev eriokrei
-subst.,pluie,plüvi
-adv.,plus,maxa
 dét.,plusieurs,maxa
+subst.,pluie,plüvi
 adv.,plutôt,abïxa
-subst.,poche,torkcëfir
 subst.,poids,baro
+verbe,plonger,vad ïnerid
+subst.,poche,torkcëfir
 subst.,poète,mïdonemeri
 subst.,poésie,mïdonemori
-subst.,poids,muxei
+adv.,plus,maxa
 adv.,point, - 
+subst.,poids,muxei
 subst.,pointe,ültipim
-subst.,police,polïci
 subst.,point,pim
-subst.,poitrine,sterna
+subst.,police,polïci
 adj.,politique,polïtïxa
 subst.,pont,süneritür
-subst.,politique,polïtikas
-subst.,port,navaltür
+subst.,poitrine,sterna
 subst.,porte,axœmtür
 verbe,poser,nev relhavei
-verbe,porter,lhav nni
+subst.,politique,polïtikas
+subst.,port,navaltür
 subst.,portier,axœmeri
+verbe,porter,lhav nni
 subst.,position,luxei
-verbe,posséder,lai nni
 adj.,possible,ibexa
 subst.,poste,postall
 prép.,pour,pron
-prép.,pour,yah
+verbe,posséder,lai nni
 adv.,pourquoi,yah kin
+prép.,pour,yah
 conj.,pourquoi,pron kin
 conj.,pourquoi,yah kin
-adv.,pourquoi,pron kin
 verbe,poursuivre,vad ïnarõ
+adv.,pourquoi,pron kin
 adv.,pourtant,misa
-subst.,pouvoir,nevibei
-subst.,poussière,torpülvar
 verbe,pousser,lhav wãga
-subst.,Pouvoir,Ibexei
+subst.,poussière,torpülvar
+subst.,pouvoir,nevibei
 verbe,pouvoir,lai ibexi
 verbe,précéder,go ïnabi
+subst.,Pouvoir,Ibexei
 adj.,précieux,arïnwramïxa
-verbe,précipiter,vad mïzyivœl
 verbe,préférer,go nnieda ïnwrami
 adj.,précis,torokreorïxa
 adj.,premier,nnieda
-subst.,premier,nnieda nni
 verbe,préparer,lhav abinevei
+verbe,précipiter,vad mïzyivœl
 verbe,prendre,lhav nni
+subst.,premier,nnieda nni
 adv.,près,proxa
-subst.,présence,esxi
 prép.,près,proxa
-adj.,présent,esxa
+subst.,présence,esxi
 subst.,présent,ïsteyuxei
+adj.,présent,esxa
 verbe,présenter,nev ïnïstane
 subst.,président,presideri
 adj.,prêt,aprexa
 verbe,presser,nev sünyivœl
-adv.,presque,proxa
 verbe,prétendre,nem ïnvrëxi
 verbe,prêter,nev ïngammei
+adv.,presque,proxa
 verbe,prévenir,nev abinemei
 subst.,preuve,ïstanori
 verbe,prévoir,nev abiokrei
-verbe,prier,nev deiwip
 subst.,prière,deiwipori
+verbe,prier,nev deiwip
 subst.,prince,torrõ
 subst.,principe,meqonevei
-subst.,printemps,florïl
 subst.,prison,qokwetür
+subst.,printemps,florïl
 subst.,prix,ïqidevïz
-adj.,prochain,arõxa
 subst.,problème,mïznevexi
+adj.,prochain,arõxa
 verbe,profiter,nev ïnwrami
 subst.,professeur,yarzeveri
 verbe,produire,nev maxi
-adv.,profondément,arsübexa
 verbe,promener,lhav ïnvadei
-verbe,promettre,nem arõnevei
-subst.,projet,arnevori
+adv.,profondément,arsübexa
 adj.,profond,arsübexa
+verbe,promettre,nem arõnevei
 verbe,prononcer,nev tornemei
 subst.,propos,nemori
-verbe,proposer,nem alea
+subst.,projet,arnevori
 adj.,propre,novïxa
+verbe,proposer,nem alea
 verbe,protéger,nev ønanta
-verbe,prouver,nev vrëxi
 adj.,public,demoxeïxa
+verbe,prouver,nev vrëxi
 subst.,public,demoxei
 adv.,puis,ne
 conj.,puis,ne
 conj.,puisque,pron
 subst.,puissance,filin
-adj.,puissant,filinxa
 adj.,pur,pürïxa
+adj.,puissant,filinxa
 subst.,qualité,ïnesxi
 conj.,quand,yuxei kin
-conj.,quand,asarõ
-prép.,quant à,ïn misa
 numér.,quarante,kareka
+prép.,quant à,ïn misa
+conj.,quand,asarõ
 subst.,quart,karesekti
 subst.,quartier,sektija
 numér.,quatre,kar
 conj.,que,yah
 pron.,que, - 
+dét.,quelque,nni ïn vaari
 adj.,quel,nni kin
 adv.,quelque,nni ïn vaari
-dét.,quelque,nni ïn vaari
 pron.,quelqu'un,nni
+numér.,quinze,Nnieka-køt
 subst.,question,kinnemori
 subst.,queue,ültidorsa
-verbe,quitter,vad ëxluxei
-numér.,quinze,Nnieka-køt
 pron.,qui,persani kin
 pron.,quoi,nni kin
-subst.,race,bïosxa heñœm
+verbe,quitter,vad ëxluxei
 verbe,raconter,nem ëxbïblis
+subst.,race,bïosxa heñœm
 subst.,raison,arskïpieri
 subst.,raison,proni
-verbe,ramasser,lhav sünderias
-verbe,ramener,lhav ïn
-subst.,rang,plazz
 adv.,rapidement,aryivœlxa
+verbe,ramasser,lhav sünderias
+subst.,rang,plazz
+verbe,ramener,lhav ïn
 adj.,rapide,aryivœlxa
-verbe,rappeler,nem nominei
-subst.,rapport,arrenemori
 verbe,rapporter,nev relhavei
-adj.,rare,toraleaxa
+verbe,rappeler,nem nominei
 subst.,réalité,realxi
+subst.,rapport,arrenemori
+adj.,rare,toraleaxa
+subst.,recherche,yaskïpir
 verbe,rassurer,nev sünyøbei
 subst.,rayon,rai
-verbe,recevoir,lai ïnlhavei
-subst.,recherche,yaskïpir
 verbe,réclamer,nem arhanniste
-verbe,recommencer,nev masïnits
+verbe,recevoir,lai ïnlhavei
 verbe,reconnaître,lai skïpir
+verbe,recommencer,nev masïnits
+verbe,réduire,nev tortop
 verbe,recueillir,lhav ïnalann
 verbe,reculer,vad dors
-verbe,réduire,nev tortop
 verbe,réfléchir,nev arïnskïpir
 adj.,réel,realxa
+subst.,réflexion,relumin
 verbe,refuser,nev nunnemei
 subst.,réflexion,arïnskïpir
-subst.,réflexion,relumin
 subst.,regard,okreori
 verbe,regarder,nev arokrei
+subst.,reine,ronnae
 verbe,regretter,nem mïzabïxi
 subst.,règle,torlïx
-subst.,reine,ronnae
 verbe,rejeter,lhav nunnemei
-subst.,religion,arkrederi
-verbe,rejoindre,vad ïncün
 subst.,relation,ïnterestori
 verbe,relever,nem ïstanei
+subst.,religion,arkrederi
 verbe,remarquer,lhav ïstanei
+verbe,rejoindre,vad ïncün
 verbe,remercier,nem hanniste
 verbe,remettre,lhav re
 verbe,remplacer,go ïnnovei
 verbe,remonter,vad maxa sün
 verbe,rencontrer,nev nnieda skïpir
 subst.,rencontre,nnieda skïpir
-verbe,remplir,nev ãplaxa
 verbe,rendre,nev regammei
+verbe,remplir,nev ãplaxa
 verbe,renoncer,nev abiønevei
 verbe,renverser,lhav ëxkcëfir
 verbe,répandre,lhav sünderias
-subst.,repas,arkomei
 verbe,rentrer,vad ïn
 verbe,répéter,nem maxi
+subst.,repas,arkomei
 verbe,répondre,nem re
 subst.,réponse,renemori
-verbe,reposer,go pronsomnis
 verbe,repousser,lhav zoëx
+verbe,reposer,go pronsomnis
+verbe,réserver,nev abilaiori
 verbe,représenter,go ïnokreori
 verbe,reprendre,lhav maxi
-verbe,réserver,nev abilaiori
-subst.,résistance,nexori
 verbe,résister,go nexori
 subst.,respect,lanayori
+subst.,résistance,nexori
 verbe,résoudre,nev solve
 verbe,respirer,nev ïnventop
 verbe,respecter,nev lanay
-verbe,ressembler,go misem
-verbe,rester,go ülti
-subst.,reste,ültiesxi
 subst.,résultat,nevori
+verbe,ressembler,go misem
 verbe,retenir,lhav ïnskïpir
+subst.,reste,ültiesxi
+verbe,rester,go ülti
 verbe,retirer,nev mïnxi
 verbe,retomber,go mïztwerei
-subst.,retour,revadei
 verbe,retourner,vad re
 verbe,retrouver,lhav ëxzumipra
+subst.,retour,revadei
 verbe,réunir,lhav ïnvaari
 subst.,rêve,sõgi
 verbe,réussir,nev meqoülti
@@ -1228,16 +1227,16 @@ verbe,révéler,nev rezumipra
 verbe,revoir,nev masokrei
 verbe,rêver,nev sõgi
 subst.,révolution,sünnovinevei
-subst.,révolution,towr
 pron.,rien,nunni
+subst.,révolution,towr
 subst.,rideau,axœmzer
 adj.,riche,ardevïxa
-subst.,rire,rïzei
 verbe,rire,nev rïzei
-verbe,risquer,vad ïnjuvar
-subst.,robe,vestizer
+subst.,rire,rïzei
 subst.,rocher,derias
+verbe,risquer,vad ïnjuvar
 subst.,roche,deriœm
+subst.,robe,vestizer
 subst.,roman,romanïxa bïblis
 subst.,rôle,rolei
 subst.,roi,rõ
@@ -1246,9 +1245,9 @@ adj.,rond,ründexa
 adj.,rouge,rogïxa
 subst.,rouge,rogïxi
 subst.,rose,torrogïxi
-adj.,rose,torrogïxa
 verbe,rouler,vad rolla
 subst.,route,vïatür
+adj.,rose,torrogïxa
 subst.,ruine,mïztür
 subst.,rue,jawrivïa
 subst.,sable,pülvider
@@ -1256,180 +1255,180 @@ subst.,sac,kcëfir
 adj.,saint,santexa
 subst.,saint,sant
 verbe,saisir,lhav nni
+verbe,saluer,nem halune
 subst.,saison,wespeyuxei
 subst.,salle,ïntür
-verbe,saluer,nem halune
 subst.,salut,halunori
-interj.,salut,halune
 subst.,sang,rogerid
-prép.,sans,øcün
+interj.,salut,halune
 subst.,santé,sanït
 verbe,satisfaire,nev wrami
 adj.,sauvage,wesperanïxa
+prép.,sans,øcün
 verbe,sauter,vad torsünei
-verbe,sauver,nev sünvïvi
 subst.,savoir,skïpir
+verbe,sauver,nev sünvïvi
 verbe,savoir,go skïpir
 subst.,science,lojïs
 subst.,scène,aktür
 pron.,se,ye
+adj.,second,bieda
 pron.,se,ïste
 adj.,sec,arïdoxa
 subst.,seconde,segunti
-adj.,second,bieda
 subst.,secours,sünsanït
 adj.,secret,zuminemexa
-subst.,secret,zuminemei
 subst.,secrétaire,zuminemeri
+subst.,secret,zuminemei
 subst.,sein,mamma
-subst.,seigneur,siñeri
-subst.,sein,vaari
-adj.,semblable,misemxa
 prép.,selon,pron
-subst.,semaine,hïteri
+subst.,seigneur,siñeri
+adj.,semblable,misemxa
+subst.,sein,vaari
 subst.,sens,rekti
-verbe,sembler,go misem
+subst.,semaine,hïteri
 subst.,sentier,derivïa
+verbe,sembler,go misem
 verbe,sentir,go estori
-subst.,sentiment,estori
 verbe,sentir,nev odor
+subst.,sentiment,estori
 numér.,sept,hït
 adj.,sérieux,armuxeïxa
 verbe,séparer,nev ëxvaari
 verbe,serrer,lhav filin
 subst.,service,sübgammei
-verbe,servir,nev sübgammei
 subst.,seuil,dorsïnvadei
+verbe,servir,nev sübgammei
 adj.,seul,nniexa
 adv.,seulement,nniexa
-adv.,si,asabi
 subst.,siècle,centivrën
+adv.,si,asabi
 subst.,siège,twereitür
-conj.,si,asabi
 pron.,sien,ïstelai
+conj.,si,asabi
 subst.,signe,sübskrivei
-subst.,signe,ïnskrïveri
 verbe,signer,nev sübskrivei
-verbe,signifier,go ïnskriveri
+subst.,signe,ïnskrïveri
 subst.,silence,nunsonip
-adj.,silencieux,nunsonïxa
+verbe,signifier,go ïnskriveri
 adv.,simplement,øzoxa
+adj.,silencieux,nunsonïxa
 adj.,simple,øzoxa
 subst.,situation,esxi
-numér.,six,hex
-adj.,social,socialxa
 subst.,société,sociall
 pron.,soi,ïste
+numér.,six,hex
+adj.,social,socialxa
 subst.,soin,sünsanït
 subst.,soir,abinoktis
 pron.,soi,ye
-subst.,soirée,abinoktis
 subst.,sol,sünderias
+subst.,soirée,abinoktis
 conj.,soit,sow
-subst.,soldat,uzeqeri
 subst.,Soleil,Solaris
+subst.,soldat,uzeqeri
 subst.,soleil,makriis
-adj.,sombre,oskrïxa
 subst.,solitude,nniestexi
-subst.,somme,aradditori
+adj.,sombre,oskrïxa
 subst.,sommeil,üvisomnis
 subst.,sommet,ültialtop
+subst.,somme,aradditori
 dét.,son,ïstelai
-dét.,son,yelai
 subst.,son,sonip
 verbe,sonner,nev sünsonip
+dét.,son,yelai
 subst.,sorte,heñœm
 verbe,songer,nev ïnskïpir
 subst.,sou,tordevïz
-verbe,sortir,vad ëx
 adv.,soudain,toryuxeïxa
+verbe,sortir,vad ëx
 verbe,souffler,nev ëxventop
-subst.,souffrance,ardolor
 verbe,soumettre,lhav sübnemei
-verbe,soulever,lhav sün
+subst.,souffrance,ardolor
 verbe,souffrir,go ardolor
+verbe,soulever,lhav sün
 verbe,souhaiter,go ïnwrami
-subst.,source,ïnitseri
 adj.,sourd,ønoyerïxa
-verbe,sourire,nev sübrïzei
+subst.,source,ïnitseri
 prép.,sous,süb
-subst.,sourire,sübrïzei
-verbe,soutenir,lhav zoxi
-subst.,souvenir,abiskïpir
+verbe,sourire,nev sübrïzei
 verbe,soutenir,lhav wrami
+subst.,sourire,sübrïzei
+subst.,souvenir,abiskïpir
+verbe,soutenir,lhav zoxi
 verbe,souvenir,nev abiskïpir
 subst.,spectacle,aktori
-adv.,souvent,araleaxa
 verbe,subir,go nevori
-subst.,succès,sünnevei
 subst.,sueur,ëxpëlerid
+subst.,succès,sünnevei
+adv.,souvent,araleaxa
 subst.,suite,arõnevori
 verbe,suffire,go ëxmuxei
-verbe,suivre,vad arõ
 adj.,suivant,arõxa
-adj.,supérieur,sün
 subst.,sujet,neveri
-verbe,supposer,nem süb
+adj.,supérieur,sün
+verbe,suivre,vad arõ
 verbe,supporter,lhav ïnsübei
-prép.,sur,sün
+verbe,supposer,nem süb
 adj.,sûr,assuriexa
+prép.,sur,sün
 verbe,surprendre,nev høtc
 adv.,surtout,sünkadioxa
 subst.,système,siistœmi
-verbe,surveiller,nev sünokrei
 subst.,table,planetür
+verbe,surveiller,nev sünokrei
+subst.,taille,arñop
 subst.,tache,mïzkolor
 subst.,tâche,yanevori
-subst.,taille,arñop
 verbe,taire,nev nunnemei
 conj.,tandis que,nesa
 adv.,tantôt,abïxa
-adv.,tant,ïnasa
 adv.,tard,arõxa
-pron.,te,zu
+adv.,tant,ïnasa
 dét.,tel,misemxa
-subst.,tapis,deriazer
+pron.,te,zu
 adv.,tellement,arñoxa
-subst.,témoin,okreeri
 subst.,tempête,arventop
+subst.,tapis,deriazer
+subst.,témoin,okreeri
 subst.,temps,yuxei
 adj.,tendre,ønexa
 verbe,tendre,nev sünnexa
-subst.,terme,nemei
 verbe,tenir,lhav nni
+subst.,terme,nemei
 verbe,tenter,nev ïnjerev
-verbe,terminer,nev ülti
 subst.,terrain,anrijœm
+verbe,terminer,nev ülti
 subst.,terre,derias
 subst.,Terre,Terria
 subst.,terreur,arhorrest
 adj.,terrible,horrestibexa
-subst.,tête,cappel
 verbe,tirer,lhav dors
-subst.,théâtre,tseatür
+subst.,tête,cappel
 subst.,titre,arnominei
+subst.,théâtre,tseatür
 verbe,tirer,nev ëxfüsill
-pron.,toi,zu
 subst.,toile,arakhnitür
+pron.,toi,zu
 subst.,tombe,deskemtür
 subst.,toit,üranitür
-verbe,tomber,nev mïztwerei
 adv.,tôt,abïxa
 dét.,ton,zulai
-subst.,ton,tonei
+verbe,tomber,nev mïztwerei
 verbe,toucher,nev dïgjit
 adv.,toujours,kadiyuxeïxa
+subst.,ton,tonei
 subst.,tour,altür
 adj.,tout,kadioxa
 verbe,tourner,nev towr
-subst.,tour,towr
 adv.,tout,kadio
+subst.,tour,towr
 dét.,tout,kadio
 pron.,tout,kadio
-adj.,toute,kadio
-subst.,trace,arõlinei
 verbe,tracer,nev linei
 subst.,train,nexivïandïr
+subst.,trace,arõlinei
+adj.,toute,kadio
 verbe,traîner,lhav arõxi
 subst.,trait,linei
 verbe,traiter,nem yah
@@ -1440,43 +1439,43 @@ verbe,travailler,nev labori
 subst.,travers,ïnlinei
 verbe,traverser,vad ïnlinei
 verbe,trembler,nev arunda
-numér.,trente,trieka
 adv.,très,arñoxa
+numér.,trente,trieka
 adj.,triste,mïzwramïxa
 subst.,trésor,toraleatori
-numér.,trois,tri
-adv.,trop,sünmaxa
 adj.,troisième,trieda
 verbe,tromper,nev mïzvrëxi
-subst.,trou,krati
+adv.,trop,sünmaxa
+numér.,trois,tri
 verbe,trouver,nev mïzzumipra
-verbe,tuer,nev deskem
+subst.,trou,krati
 pron.,tu,zu
+verbe,tuer,nev deskem
 verbe,troubler,nev mïzokrei
 dét.,un,nni
-subst.,type,heñœm
-numér.,un,nni
 pron.,un,nni
 adj.,unique,nniexa
+numér.,un,nni
+subst.,type,heñœm
 subst.,usage,utill
 verbe,user,nev mïznovei
-adj.,vague,mïzskïprïxa
-verbe,user,nev ëxutill
 subst.,vague,eriunda
+adj.,vague,mïzskïprïxa
 subst.,valeur,ïqi
+verbe,user,nev ëxutill
 verbe,vaincre,nev ïnprimori
 adj.,vaste,arluxeïxa
-verbe,valoir,go ïqi
 subst.,veille,sübsomnis
+verbe,valoir,go ïqi
 subst.,valeur,ïnlïx
 verbe,veiller,nev sünokrei
 verbe,vendre,nev ïndevïz
 subst.,ventre,gastra
 verbe,venir,vad ïn
-subst.,vent,ventop
-adj.,véritable,vrëxa
-subst.,vérité,vrëxi
 prép.,vers,yah
+subst.,vérité,vrëxi
+adj.,véritable,vrëxa
+subst.,vent,ventop
 subst.,verre,glaziœm
 verbe,verser,lhav ëxkcëfir
 subst.,vers,linemori
@@ -1485,41 +1484,41 @@ verbe,vêtir,lhav zerwip
 subst.,vêtement,zerwip
 subst.,victime,ïnjuvraxi
 subst.,vide,võdi
-adj.,vide,võdïxa
 subst.,vie,vïvi
+adj.,vide,võdïxa
 adj.,vieil,vïqoxa
 subst.,vie,bïos
 adj.,vieux,vïqoxa
 subst.,vieillard,vïqoxi
 subst.,vieux,vïqoxi
-adj.,vif,ïnyivœlxa
 subst.,ville,jawrim
+adj.,vif,ïnyivœlxa
 subst.,village,torjawrim
-subst.,vin,viñerid
 numér.,vingt,bieka
+subst.,vin,viñerid
 subst.,violence,mïzfilin
 adj.,violent,mïzfilinxa
 subst.,visage,wãgacappel
-adj.,visible,okreibexa
-subst.,vision,okreori
 subst.,visite,arïnvadei
+subst.,vision,okreori
 adv.,vite,yivœlxa
+adj.,visible,okreibexa
 adj.,vivant,bïosxa
-adj.,vivant,vïvïxa
 verbe,vivre,go vïvi
-prép.,voici,Ïstego … nni
 subst.,voie,vïa
+adj.,vivant,vïvïxa
 prép.,voilà,Ïstego … nni
+prép.,voici,Ïstego … nni
 subst.,voile,sünventotür
-verbe,voir,nev okrei
 adj.,voisin,yamezexa
+verbe,voir,nev okrei
 subst.,voisin,yamezei
 subst.,voiture,vïandïr
 subst.,voix,vox
 subst.,vol,mïzlhavei
 subst.,vol,avivadei
-verbe,voler,nev mïzlhavei
 verbe,voler,vad avia
+verbe,voler,nev mïzlhavei
 subst.,volonté,ïnwrami
 dét.,votre,zünlai
 verbe,vouloir,go ïnwrami
@@ -1532,6 +1531,6 @@ subst.,vue,okreeri
 pron.,y,ïsteluxeïxa
 subst.,yeux,okreïn
 subst.,concurrence,belisprœve
+pron.,vous,zün
 verbe,programmer,nev abinevori
 subst.,programmation,abinevori
-pron.,vous,zün

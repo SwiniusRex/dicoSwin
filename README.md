@@ -3,16 +3,18 @@
 Ce projet est un dictionnaire de traduction swinien-français en ligne de commande.
 Le dictionnaire est [présent](./dictionnaire.csv) dans le repo au format csv.
 
+## Cloner
+```bash
+git clone https://github.com/SwiniusRex/dicoSwin.git dicoSwin
+```
+
+# Python
+
 ## Installation 
 
 > *Prérequis :*
 Python ou Python3
 (OS linux de préférence) 
-
-## Cloner
-```bash
-git clone https://github.com/SwiniusRex/dicoSwin.git dicoSwin
-```
 
 ## Setup Venv
 Si vous souhaitez mettre en place un *virtual environment* (venv), appliquez les commandes suivantes, sinon sautez directement à l'installation des [dépendances](#dépendances).
@@ -46,3 +48,14 @@ source .venv/bin/activate
 `python3 main.py del [type de mot*] [mot en français] [mot en swinien]` : pour effacer une entrée du dictionnaire
 
 *Il est recommandé d'ajouter un alias dans le bashrc (ou équivalent) pour faciliter la commande, de type : `alias dicoswin="python3 ~/path/to/main.py"`
+
+# NodeJS
+
+## Installation
+
+> *Prérequis :*
+Node.js (Linux)
+
+## Utilisation
+
+(dans le dossier du projet) `node js/main.js`

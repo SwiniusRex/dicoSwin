@@ -38,7 +38,7 @@ Reads the word or pattent inputted in the stdin and perform the given action on 
 function askWord(action){
   var nw = "";
 
-  rl.question(`Which word ? | `,w => {
+  rl.question(`Search word/pattern :\n|> `, (w) => {
     if(action == f2s){
       nw = s2Reg(w);
     }else if(action == s2f){
@@ -109,13 +109,11 @@ const s2f = (word) => {
     .pipe(parse({delimiter: ','}))
     .on('data', function(csvrow) {
       if(csvrow[2].search(regex) != -1){
-        //console.log(csvrow[2]);
         res.push(csvrow);        
       }
     })
     .on('end',function() {
       displayWord(res)
-      //console.log(csvData);
     });
 }
 
@@ -125,9 +123,9 @@ Adds a line in the dictionnary
   word : the french word to add.
 */
 const add = (word) => {
-  rl.question(`Which type is it ? (subst. | verbe | adj. | ...) `, (t) => {
-    rl.question(`Please enter the swinian for ${word} :`, (trad) => {
-      fs.appendFile(`./dictionnaire.csv`, `\n${t},${word},${trad}`, function(err){
+  rl.question(`Which type is it ? (subst. | verbe | adj. | ...) \n|> `, (t) => {
+    rl.question(`Please enter the swinian for ${word} \n|> `, (trad) => {
+      fs.appendFile(`./dictionnaire.csv`, `${t},${word},${trad}\n`, function(err){
         if(err) throw err;
         //console.log("Mot ajouté");
       })
@@ -142,8 +140,8 @@ Removes a line from the dictionnary.
 */
 const del = (word) => {
   var buffer = readcsv();
-  rl.question(`Which type is it ? (subst. | verbe | adj. | ...) `, (t) => {
-    rl.question(`Please enter the swinian for ${word} :`, (trad) => {
+  rl.question(`Which type is it ? (subst. | verbe | adj. | ...) \n|> `, (t) => {
+    rl.question(`Please enter the swinian for ${word} \n|> `, (trad) => {
   
       fs.writeFile(`./dictionnaire.csv`,``,function(err){
         if(err) throw err;
@@ -152,7 +150,7 @@ const del = (word) => {
       buffer.forEach((value) => {
         //console.log(value);
         if(JSON.stringify(value) !== JSON.stringify([t,word,trad])){
-          fs.appendFile(`./dictionnaire.csv`,`\n${value[0]},${value[1]},${value[2]}`,function(err){
+          fs.appendFile(`./dictionnaire.csv`,`${value[0]},${value[1]},${value[2]}\n`,function(err){
             if(err) throw err;
           });
         }
@@ -172,27 +170,29 @@ const rl = readline.createInterface({
 
 var actionName = "";
 
-rl.question(`What do you want to do ? | `, a => {
-  console.log(`Hi ${a}!`);
+rl.question(`Choose an action (f2s-s2f-add-del)\n|> `, a => {
   actionName = a;
-  console.log("This is" + actionName);
 
   switch(actionName){
   case "f2s":
-    console.log("F2S")
+    //console.log("F2S")
     askWord(f2s);
     break;
   case "s2f":
-    console.log("S2F")
+    //console.log("S2F")
     askWord(s2f);
     break;
   case "add":
-    console.log("ADD")
+    //console.log("ADD")
     askWord(add);
     break;
   case "del":
-    console.log("DEL")
+    //console.log("DEL")
     askWord(del);
+    break;
+  default:
+    console.log("This action is not recognized. PLease try f2s|s2f|add|del.")
+    rl.close();
     break;
   }
 });
